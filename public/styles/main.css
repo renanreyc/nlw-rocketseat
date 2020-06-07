@@ -1,0 +1,39 @@
+:root{
+    --title-color: #322153;
+    --primary-color: #34cb69;
+}
+
+* { /*seleciona todos os seletores*/
+    margin: 0;
+    padding: 0;
+    /*conter o padding para n esticar a caixa*/
+    box-sizing: border-box;
+
+}
+
+html{
+    font-family: Roboto, sans-serif;
+}/*se tiver apenas um nome n precisa das aspas: 'Roboto'*/
+
+body{
+    background: #d7d7e4;
+    -webkit-font-smoothing: antialiased;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Ubuntu, sans-serif;
+    color: var(--title-color);
+}
+
+/*BOX MODEL 
+
+Modelo de caixa
+toda caixa tem
+largura, altura, espaçamentos, preenchimentos
+bordas, cor, fundo, alinhamento, posicionamento maneira que é vista pelo html [display]
+*/
+
