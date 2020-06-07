@@ -23,8 +23,16 @@
         grid-template-columns: 1fr;
     }
 
-    #page-search-results .cards img{
+    #page-search-results .cards img {
         height: 250px;
+    }
+
+    #page-create-point .field-group{
+        flex-direction: column;
+    }
+
+    #page-create-point .field-group .field + .field{
+        margin-left: 0;
     }
 }
 
