@@ -8,13 +8,13 @@
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 - [Fork esse repositório](#-fork-esse-repositório)
 
-## :recycle: Sobre
+## :recycle:  Sobre
 
 O projeto **Ecoleta** é um Marketplace de coleta de resíduos que foi criado dentro da Next Level Week. Promovido pela **Rocketseat** com o intuito de colocarmos em prática um projeto **full stack** durante uma semana.
 
 ---
 
-## :rocket: Tecnologias utilizadas
+## :rocket:  Tecnologias utilizadas
 
 O projeto foi desenvolvio utilizando as seguintes tecnologias
 
@@ -25,7 +25,7 @@ O projeto foi desenvolvio utilizando as seguintes tecnologias
 
 ---
 
-## :shipit: Como baixar o projeto
+## :shipit:  Como baixar o projeto
 
 ```bash
 
@@ -44,7 +44,7 @@ O projeto foi desenvolvio utilizando as seguintes tecnologias
 
 ---
 
-## :pencil2: Fork esse repositório
+## :pencil2:  Fork esse repositório
 
 Crie uma branch com a sua feature: git checkout -b my-feature
 
@@ -54,4 +54,4 @@ Push a sua branch: git push origin my-feature
 
 ---
 
-Desenvolvido :green_heart: por Renan Rodrigues 
+Desenvolvido :green_heart:  por Renan Rodrigues 
