@@ -54,4 +54,4 @@ Push a sua branch: git push origin my-feature
 
 ---
 
-Desenvolvido por Renan Rodrigues
+Desenvolvido por Renan Rodrigues :octocat:
